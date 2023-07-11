@@ -1,0 +1,23 @@
+VCS yang bisa menyimpan& mengelola rekaman perubahan source code/file  di dalam folder (repository/repo)
+GIT= software VCS
+- version control system= sistem yang mengekola perubahan pada dokumen
+- Riwayat perubahan file disimpan menggunakan serangkaian commit, 1 commit direkam 1 snapshot
+commit - hash
+Author:
+Date:
+Pesan:
+MANFAAT:
+1.	Kesulitan membuat revisi file: merekam perubahan soyrce code
+2.	Untuk kolaborasi membuat source code
+3.	Tau siapa dan kapan perubahan terjadi
+4.	Memungkinkan kembali ke keadaan sebelum perubahan (checkout)
+
+-	Branch: master branch= jalur utama, branch: cabang jalur urtama, 2 orang mengerjakan repo yg sama
+-	Merge: menggabungkan 2 branch
+
+GITHUB /bitbucket/gitlab: web/layanan mengelola project Git
+-	Layanan cloud menyimpan , mengelola project/repo
+-	Ignya programmer
+-	Push= mengirim commit
+-	Pull = mengambil commit
+-	Commit harus di repokan dulu baru bisa di pull/push
