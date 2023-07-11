@@ -21,3 +21,13 @@ GITHUB /bitbucket/gitlab: web/layanan mengelola project Git
 -	Push= mengirim commit
 -	Pull = mengambil commit
 -	Commit harus di repokan dulu baru bisa di pull/push
+
+FORK: 
+- menduplikat/mengcopy dari repo orang lain beserta historynya ke akun kita
+- jemnbatan antara repo ori dan duplikatnya
+- modifikasi repo ori
+- berkontribusi pada repo orang lain: mengusulkan perubahan ke pemilik repo asli melalui (merge) pull request
+- fork tidak = clone
+
+1. ke file repo orang -> klik edit: fork this project and edit the file
+2. di repo bagian kanan atas ada tombol fork
